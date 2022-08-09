@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nasirullahbaig1
 - 👀 I’m interested in graphic desigining and coding
-- 🌱 I’m currently learning java and python
+- 🌱 I’m currently learning java,python, html, css and JavaScript
 - 💞️ I’m looking to collaborate on java
 - 📫 text me here
 
