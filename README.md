@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nasir Ullah Baig</h1>
 <h3 align="center">A passionate frontend developer and Programmer</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirullahbaig&label=Profile%20views&color=0e75b6&style=flat" alt="nasirullahbaig" /> </p>
 
@@ -31,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasirullahbaig&show_icons=true&locale=en" alt="nasirullahbaig" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasirullahbaig&" alt="nasirullahbaig" /></p>
-
