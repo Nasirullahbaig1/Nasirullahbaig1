@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nasirullahbaig1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nasirullahbaig" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nasirullahbaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir ullah baig" height="30" width="40" /></a>
-<a href="https://fb.com/nasir ullah baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nasir ullah baig" height="30" width="40" /></a>
-<a href="https://instagram.com/nasirullahbaig14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasirullahbaig14" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nasir-ullah-baig-32a34b1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir ullah baig" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005022286537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nasir ullah baig" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nasirullah.baig/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasirullahbaig14" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
