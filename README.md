@@ -33,23 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasirullahbaig1&show_icons=true&locale=en" alt="nasirullahbaig" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasirullahbaig1&" alt="nasirullahbaig" /></p>
-  <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/nasiirr rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-5703e015-ed36-4cfa-95f3-2fbbaa05afba' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >nasiirr</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>Hi, I am Nasir. I am a Graphic designer and a web developer. I have been working for more than 4 years as Graphic designer. I have rich experience in Logo design (minimalist, Monogram, Modern, Business, and Signature logos). Besides that, I am an expert in banner design and poster making.
-Being a computer student I have command in HTML, CSS and Java-Script, which makes me a good front-end developer. I am here to serve you with my skills. Hope you will get benefit out of my skills.
-
-Thank you 
-</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-5703e015-ed36-4cfa-95f3-2fbbaa05afba' src='https://widgets.fiverr.com/api/v1/seller/nasiirr?widget_id=5703e015-ed36-4cfa-95f3-2fbbaa05afba' data-config='{"category_name":"Graphics \u0026 Design"}' async='true' defer='true'></script>
+  
 
